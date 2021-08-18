@@ -15,7 +15,7 @@
 ## 💻 Começando o projeto
 
 Clone o meu repositório com esse comando:<br> 
-- git clone https://github.com/Chaldow/NunesFlix/
+- git clone https://github.com/Chaldow/NunesFlix.git
 
 Para rodar o projeto, vá no terminal dentro da IDE e execute o comando:
 - npm start
