@@ -21,4 +21,4 @@ Para rodar o projeto, vá no terminal dentro da IDE e execute o comando:
 - npm start
 
 
-Feito com <span role="img" aria-label="coração">💚</span> por Chaldow <br />
+Feito com <span role="img" aria-label="coração">💚</span> por Guilherme Nunes <br />
