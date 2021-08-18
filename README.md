@@ -9,6 +9,7 @@
   - Responsividade em dispositivos Mobile<br>
 
 <img src="./public/NunesFlix.png" alt="NunesFlix"/>
+<img src="./public/NunesFlixCatalogo.png" alt="NunesFlix"/>
 
 
 ## 💻 Começando o projeto
