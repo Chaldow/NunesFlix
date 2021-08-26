@@ -11,9 +11,15 @@ Link no ar:
   - Manipulação de API webservices <br>
   - Responsividade em dispositivos Mobile<br>
 
-<img src="./public/NunesFlix.png" alt="NunesFlix"/>
-<img src="./public/NunesFlixCatalogo.png" alt="NunesFlix"/>
 
+<img src="./public/netflixGIF.gif" width=100% height=100% alt="NunesFlix"/>
+<br/>
+<br/>
+Responsive
+<div style="display:flex;">
+<img src="./public/responsivenetflix.png" alt="NunesFlix"/>
+<img src="./public/responsivenetflix2.png" alt="NunesFlix"/>
+</div>
 
 ## 💻 Começando o projeto
 
